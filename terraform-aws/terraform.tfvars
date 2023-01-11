@@ -1,4 +1,4 @@
 access_ip  = "0.0.0.0/0"
-dbname     = "rancher"
-dbuser     = "tobby"
-dbpassword = "WuvFwG82F"
+dbname     = "makename"
+dbuser     = "makename"
+dbpassword = "makepassword"
